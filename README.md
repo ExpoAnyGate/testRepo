@@ -1,5 +1,6 @@
 # testRepo
 
+new 2
 new
 
 測試~~~~!asdcasdcasdc
